@@ -1,0 +1,20 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Makes the Ender Dragon drop an Elytra upon dying.",
+        "name": "Dragon Elytra",
+        "uuid": "ffca146a-2141-411b-bfb4-8cf0340d9d1b",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "Dragon",
+            "type": "data",
+            "uuid": "30238259-d6c0-46d2-902d-752dfc6d0df7",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+
+    ]
+}
